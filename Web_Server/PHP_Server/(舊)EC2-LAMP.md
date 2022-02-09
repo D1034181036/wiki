@@ -20,7 +20,7 @@
     1. 刪除 `command="echo 'Please login as the ec2-user user rather than root user.';echo;sleep 10"`
     1. 重啟 `service sshd restart`
 
-## 安裝LAMP with Tasksel
+## 安裝LAMP from Tasksel
 
 1.更新系統: sudo apt update && sudo apt upgrade && sudo apt dist-upgrade
 2.安裝Tasksel: sudo apt install tasksel
