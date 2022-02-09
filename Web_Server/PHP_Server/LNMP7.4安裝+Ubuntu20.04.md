@@ -1,4 +1,4 @@
-# LNMP7.4 w/ Ubuntu20.04
+# LNMP7.4 on Ubuntu20.04
 
 ## 前置作業 - 設定初始環境
 ```
