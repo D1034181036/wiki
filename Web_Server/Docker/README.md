@@ -43,8 +43,12 @@ docker exec -it [container_id] bash
 ctrl+p
 ctrl+q
 
+# 開啟、停止container
+docker stop [container_id]
+docker start [container_id]
+
 # 刪除單一container
-docker rm container_id
+docker rm [container_id]
 
 ## 刪除所有非執行中的container
 docker container prune
