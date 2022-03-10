@@ -4,6 +4,9 @@ MAINTAINER Kevin
 # 設定timezone變數
 ENV TZ=Asia/Taipei
 
+#設定mysql密碼
+ENV MYSQL_PWD password
+
 # ====================
 
 # 建立Dockerfile期間使用非交互式安裝
@@ -42,6 +45,8 @@ RUN apt install php7.4 php7.4-fpm php7.4-cli php7.4-mysql php7.4-curl php7.4-jso
 RUN apt purge apache2 -y && apt autoremove -y && apt autoclean -y
 
 # 安裝mysql
+RUN echo "mysql-server mysql-server/root_password password $MYSQL_PWD" | debconf-set-selections
+RUN echo "mysql-server mysql-server/root_password_again password $MYSQL_PWD" | debconf-set-selections
 RUN apt install mysql-server -y
 
 # 設定Nginx - site-available (已預設ln連結至site-enable)
