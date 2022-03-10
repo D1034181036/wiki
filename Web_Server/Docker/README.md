@@ -5,7 +5,7 @@
 ### 格式範例1
 ```
 docker run --name [custom_container_name] \
-    -p [server_port]:[container_port] \ 
+    -p [server_port]:[container_port] \
     -v /home/ubuntu/html:/var/www/html \
     [image_name] \
     /bin/sh
@@ -16,6 +16,7 @@ docker run --name [custom_container_name] \
 docker run -id \
     --name html \
     -p 80:80 \
+    -p 3306:3306 \
     -v /home/ubuntu/html:/var/www/html \
     LNMP \
     /bin/sh
