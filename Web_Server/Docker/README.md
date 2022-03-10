@@ -1,3 +1,14 @@
+# Repository
+## jwsh09910062/lnmp74 一鍵安裝
+```
+docker run -id \
+    --name html \
+    -p 80:80 \
+    -p 3306:3306 \
+    jwsh09910062/lnmp74 \
+    /bin/sh
+```
+
 # Docker基本指令
 
 ## 使用Image建立Container
