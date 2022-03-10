@@ -18,7 +18,7 @@ docker run -id \
     -p 80:80 \
     -p 3306:3306 \
     -v /home/ubuntu/html:/var/www/html \
-    LNMP \
+    lnmp74 \
     /bin/sh
 ```
 
