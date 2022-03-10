@@ -19,4 +19,6 @@ Google
 		
 Raspberry Pi
 	Pi-Hole
+	Plex
+	Subsonic
 ```
