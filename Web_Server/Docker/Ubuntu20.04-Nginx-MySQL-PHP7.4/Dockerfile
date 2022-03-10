@@ -61,7 +61,6 @@ RUN mv composer.phar /usr/local/bin/composer
 
 # 安裝phpmyadmin
 RUN apt install phpmyadmin -y
-RUN ln -s /usr/share/phpmyadmin /var/www/html/phpmyadmin
 
 # ====================
 
