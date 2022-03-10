@@ -5,6 +5,7 @@ docker run -id \
     --name html \
     -p 80:80 \
     -p 3306:3306 \
+    -v /home/ubuntu/html:/var/www/html \
     jwsh09910062/lnmp74 \
     /bin/sh
 ```
