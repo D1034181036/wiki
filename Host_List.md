@@ -7,9 +7,12 @@ Github
 	樂透模擬網站
 
 LightSail
-	LTD2-Videos
-	YouTube-DL-WebView
-	YouTube-Clone-PHP
+	ltd2.cc
+		LTD2-Videos
+
+	cloud.ltd2.cc
+		YouTube-DL-WebView
+		YouTube-Clone-PHP
 
 Google
 	Google-Apps-Script
@@ -18,7 +21,15 @@ Google
 		天氣提醒
 		
 Raspberry Pi
-	Pi-Hole
-	Plex
-	Subsonic
+	public ip
+		Pi-Hole
+
+	plex.ltd2.cc
+		Plex
+
+	music.ltd2.cc
+		Subsonic
+
+	rpi.ltd2.cc
+		WebServer
 ```
