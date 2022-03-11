@@ -7,7 +7,7 @@ Github
 	樂透模擬網站
 
 LightSail
-	ltd2.cc
+	ltd2.cc / www.ltd2.cc
 		LTD2-Videos
 
 	cloud.ltd2.cc
@@ -28,6 +28,9 @@ Raspberry Pi
 		Plex
 
 	music.ltd2.cc
+		Airsonic
+
+	sub.ltd2.cc
 		Subsonic
 
 	rpi.ltd2.cc
