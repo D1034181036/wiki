@@ -28,10 +28,10 @@ Raspberry Pi
 		Plex
 
 	music.ltd2.cc
-		Airsonic
-
-	sub.ltd2.cc
 		Subsonic
+
+	air.ltd2.cc
+		Airsonic
 
 	rpi.ltd2.cc
 		WebServer
