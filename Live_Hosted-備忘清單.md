@@ -21,15 +21,18 @@ Google
 		天氣提醒
 		
 Raspberry Pi
-	public ip
-		Pi-Hole
+	public_ip
+		Pi-Hole:10000
+
+	chat.ltd2.cc
+		RocketChat:3000
 
 	plex.ltd2.cc
-		Plex
+		Plex:32400
 
 	music.ltd2.cc
-		Subsonic
+		Subsonic:4040
 
 	rpi.ltd2.cc
-		WebServer
+		html:80
 ```
