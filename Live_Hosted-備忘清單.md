@@ -1,5 +1,5 @@
 ```
-updated on 2022/03/18
+updated on 2022/03/22
 
 Github
 	個人部落格
@@ -19,19 +19,26 @@ Google
 		YouTube標題更新
 		生日提醒
 		天氣提醒
-		
+
+==========
+
 Raspberry Pi
 	public_ip
 		Pi-Hole:10000
+		OpenVPN:10001
+		
+	detection.ltd2.cc
+		ChangeDetection:10002
+		Selenium:10003
 
 	chat.ltd2.cc
 		RocketChat:3000
 
-	plex.ltd2.cc
-		Plex:32400
-
 	music.ltd2.cc
 		Subsonic:4040
+
+	plex.ltd2.cc
+		Plex:32400
 
 	rpi.ltd2.cc
 		html:80
