@@ -35,7 +35,6 @@ Raspberry Pi
 		
 	detection.ltd2.cc
 		ChangeDetection:10002
-		Selenium:10003
 
 	chat.ltd2.cc
 		RocketChat:3000
