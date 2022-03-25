@@ -1,3 +1,3 @@
 git add .
-git commit -m "更新Live-Hosted列表"
+git commit -m "Update Live-Hosted"
 git push
