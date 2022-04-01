@@ -6,14 +6,6 @@ Github
 	個人網站 [待更新]
 	樂透模擬網站
 
-LightSail
-	ltd2.cc / www.ltd2.cc
-		LTD2-Videos
-
-	cloud.ltd2.cc
-		YouTube-DL-WebView
-		YouTube-Clone-PHP
-
 Google
 	Google-Apps-Script
 		YouTube標題更新
@@ -28,6 +20,16 @@ Heroku
 
 ==========
 
+LightSail
+	ltd2.cc / www.ltd2.cc
+		LTD2-Videos
+
+	cloud.ltd2.cc
+		YouTube-DL-WebView
+		YouTube-Clone-PHP
+
+==========
+
 Raspberry Pi
 	public_ip
 		Pi-Hole:10000
@@ -35,6 +37,9 @@ Raspberry Pi
 		
 	detection.ltd2.cc
 		ChangeDetection:10002
+
+	uptime.ltd2.cc
+		Uptime-Kuma:10003
 
 	chat.ltd2.cc
 		RocketChat:3000
