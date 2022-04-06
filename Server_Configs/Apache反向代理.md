@@ -3,7 +3,7 @@
 ## Apache
 
 ### 新增Virtual Host (範例)
-`cd /opt/bitnami/apache2/conf/vhosts/`
+`cd /opt/bitnami/apache2/conf/vhosts/`  
 `vim /opt/bitnami/apache2/conf/vhosts/[site_name].conf`
 
 ```
