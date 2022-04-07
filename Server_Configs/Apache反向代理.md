@@ -17,5 +17,19 @@
 </VirtualHost>
 ```
 
+```
+<VirtualHost *:80>
+  ServerName yourdomain.com
+  ProxyRequests off
+  <Proxy *>
+    Order allow,deny
+    Allow from all
+  </Proxy>
+
+  ProxyPass / http://192.168.1.99
+  ProxyPassReverse / http://192.168.1.99
+</VirtualHost>
+```
+
 ### 重啟Apache
 `sudo /opt/bitnami/ctlscript.sh restart apache`

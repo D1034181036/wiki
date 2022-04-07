@@ -47,9 +47,6 @@ Raspberry Pi
 	music.ltd2.cc
 		Subsonic:4040
 
-	plex.ltd2.cc
-		Plex:32400
-
 	rpi.ltd2.cc
 		html:80
 ```
