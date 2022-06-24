@@ -26,7 +26,6 @@ LightSail
 
 	cloud.ltd2.cc
 		YouTube-DL-WebView
-		YouTube-Clone-PHP
 
 	uptime.ltd2.cc
 		Uptime-Kuma:3001
