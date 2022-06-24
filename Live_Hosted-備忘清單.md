@@ -51,5 +51,5 @@ Raspberry Pi
 		Subsonic:4040
 
 	rpi.ltd2.cc
-		html:80
+		NginxProxyManager:80
 ```
