@@ -28,6 +28,9 @@ LightSail
 		YouTube-DL-WebView
 		YouTube-Clone-PHP
 
+	uptime.ltd2.cc
+		Uptime-Kuma:3001
+
 ==========
 
 Raspberry Pi
