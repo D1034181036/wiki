@@ -1,6 +1,6 @@
-# LightSail 指令
+# Bitnami 指令
 
-## Apache
+## Apache 
 
 ### 新增Virtual Host (範例)
 `cd /opt/bitnami/apache2/conf/vhosts/`  

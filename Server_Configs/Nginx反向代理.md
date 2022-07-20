@@ -1,7 +1,7 @@
 # Nginx反向代理
 
 ### 新增Virtual Host (範例)
-`vim /etc/nginx/sites-enabled/subsonic`
+`vim /etc/nginx/sites-enabled/{subsonic}`
 
 ```
 server{

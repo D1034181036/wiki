@@ -4,7 +4,7 @@
 [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
 
 ## 第一次登入
-1. 使用網路線連接區域網路
+1. 使用網路線連接區域網路(DHCP)
 1. SSH連入樹莓派
 1. 帳號: `ubuntu` 密碼: `ubuntu`
 
